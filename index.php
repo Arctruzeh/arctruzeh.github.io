@@ -1,3 +1,7 @@
-<?php
-echo "hello world";
-?>
+<html>
+<head>
+</head>
+<body>
+Hello world.
+</body>
+</html>
